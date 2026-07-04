@@ -6,5 +6,5 @@ contact_links:
     about: Testing.
 
   - name: Suggest an improvement
-    url: /discussions
+    url: discussions
     about: Test test.
