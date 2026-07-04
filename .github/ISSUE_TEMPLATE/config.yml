@@ -1,10 +1,10 @@
 blank_issues_enabled: false
 
 contact_links:
-  - name: Ask a question
-    url: https://github.com/hazzuk/test-discus/discussions/new?category=ideas
-    about: Testing.
+  - name: Suggest a feature
+    url: https://github.com/hazzuk/karo-stack/discussions/new?category=q-a
+    about: Propose an improvement, request a change, or discuss an idea
 
-  - name: Suggest an improvement
-    url: discussions
-    about: Test test.
+  - name: Ask a question
+    url: https://github.com/hazzuk/karo-stack/discussions/new?category=q-a
+    about: Get help, ask about the project, or seek a clarification
