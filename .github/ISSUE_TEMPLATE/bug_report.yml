@@ -1,6 +1,5 @@
 name: Report a bug
-description: Describe a bug or issue you have identified.
-title: "bug: "
+description: Describe a bug or issue you have identified
 labels: ["bug"]
 assignees:
   - hazzuk
